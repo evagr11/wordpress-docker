@@ -36,3 +36,4 @@ Tienes dos usuarios para conectarte a la base de datos:
 - **Contraseña**: `wordpress`
 
 Puedes ajustar las credenciales en el archivo `docker-compose.yml`.
+
